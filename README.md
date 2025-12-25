@@ -11,7 +11,7 @@ Plugin de sécurité pour serveur Minecraft qui oblige les administrateurs à s'
 
 ## Installation
 
-1. Téléchargez la dernière version du plugin depuis [les releases GitHub](https://github.com/votre-utilisateur/EminiumGamesSecurities/releases)
+1. Téléchargez la dernière version du plugin depuis [les releases GitHub](https://github.com/Eminium-Games/EminiumGamesSecurities/releases)
 2. Placez le fichier `EminiumGamesSecurities-1.0.jar` dans le dossier `plugins/` de votre serveur
 3. Redémarrez le serveur
 4. Configurez le mot de passe dans `plugins/EminiumGamesSecurities/config.yml`
