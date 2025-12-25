@@ -1,0 +1,19 @@
+name: EminiumAdminAuth
+version: 1.0
+main: fr.eminium.adminauth.EminiumAdminAuth
+api-version: '1.20'
+description: Admin authentication system for admin commands and block interactions
+authors: [Eminium]
+commands:
+  admin:
+    description: S'authentifier en tant qu'admin
+    usage: /admin <motdepasse>
+    permission: security.admin
+  adminlogout:
+    description: Se déconnecter de la session admin
+    usage: /adminlogout
+    permission: security.admin
+permissions:
+  security.admin:
+    description: Permission pour les administrateurs nécessitant une authentification
+    default: op

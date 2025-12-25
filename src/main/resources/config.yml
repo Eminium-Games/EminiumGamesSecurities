@@ -1,0 +1,29 @@
+# EminiumAdminAuth Configuration
+# Mot de passe administrateur (ne pas utiliser d'espaces)
+# Par défaut: MotDePasse1234!
+admin-password: "MotDePasse1234!"
+
+# List of commands that require admin authentication
+admin-commands:
+  - "gamemode"
+  - "give"
+  - "tp"
+  - "teleport"
+  - "ban"
+  - "pardon"
+  - "kick"
+  - "op"
+  - "deop"
+  - "whitelist"
+  - "stop"
+  - "reload"
+  - "effect"
+  - "enchant"
+  - "xp"
+  - "weather"
+  - "time"
+  - "difficulty"
+  - "defaultgamemode"
+  - "gamerule"
+  - "kill"
+  - "summon"
