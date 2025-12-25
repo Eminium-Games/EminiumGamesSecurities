@@ -25,6 +25,8 @@ Le fichier `config.yml` contient les paramètres suivants :
 admin-password: "MotDePasse1234!"
 ```
 
+Pensez bien à changer le mot de passe !!!
+
 ## Utilisation
 
 1. Pour les administrateurs :
