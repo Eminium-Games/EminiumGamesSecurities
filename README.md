@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This plugin is no longer maintained.**
+> It may not work with recent versions and is **not recommended for new projects**.  
+> Consider not using it. It will be archived
+
 # EminiumGamesSecurities
 
 [English version below](#english-version)
